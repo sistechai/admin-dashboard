@@ -1,0 +1,58 @@
+/*
+    Customized CSS for the theme
+    @Author: Bryan
+    @Date: 2023-05-11
+    @Version: 1.0.0
+*/
+
+:root {
+    --border-color: #d8e3e7;
+}
+
+/* Top panels */
+.header-area {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.sidebar-header {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+/* Logo */
+.logo > a {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.user-profile {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.page-title-area {
+    border-bottom: 1px solid var(--border-color);
+}
+
+.page-title {
+    font-size: 18px;
+
+}
+
+ul.breadcrumbs {
+    margin-top: 0;
+}
+
+.card {
+    border: 1px solid var(--border-color);
+}
+
+.main-content {
+    background: #f9f9f9;
+}
+
+/* .dropdown-menu {
+    border: 1px solid var(--border-color) !important;
+} */
