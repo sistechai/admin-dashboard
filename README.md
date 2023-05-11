@@ -1,19 +1,19 @@
-# SRTdash admin dashboard
+# Dashboard template
 Free admin dashboard template
 
 # Preview
 
-![SRTdash admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/srtdash-html-free-admin-dashboard.jpg)
+![SISTechAi dashboard admin dashboard template preview](./documentation/img/dashboard.png)
 
 # Overview
-SRTdash is a full-featured, multipurpose, premium bootstrap admin template built with Bootstrap 4 Framework, HTML5, CSS and JQuery.
+SISTechAi dashboard is a full-featured, multipurpose, premium bootstrap admin template built with Bootstrap 4 Framework, HTML5, CSS and JQuery.
 
 It is a fully responsive bootstrap admin template/bootstrap admin dashboard template that comes with a huge collection of reusable UI components & plugins.
 
 We believe we have covered everything you need to set up an All kind of website.If there is something that you would like to know then we are happy to help you out.
 
 ## Getting started
-If you want to kickstart your webapp right now, there is a [starter template](srtdash/starter.html) in place. This one includes everything you need to set up your app.
+If you want to kickstart your webapp right now, there is a [starter template](SISTechAi dashboard/starter.html) in place. This one includes everything you need to set up your app.
 
 # Template Features:
 
@@ -53,4 +53,4 @@ Initial Release
 
 ### License
 
-SRTdash is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
+SISTechAi dashboard is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
